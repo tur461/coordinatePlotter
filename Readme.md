@@ -24,9 +24,9 @@ leave this terminal open as well
 ### and finally have some fun!!!
 
 ## Resources and Links:
-[1]: https://stackoverflow.com/questions/13430231/how-i-can-get-cartesian-coordinate-system-in-matplotlib
-[2]: https://www.geeksforgeeks.org/python-build-a-rest-api-using-flask/
-[3]: https://stackoverflow.com/questions/47484558/how-to-set-base64-url-to-image-src
+1. https://stackoverflow.com/questions/13430231/how-i-can-get-cartesian-coordinate-system-in-matplotlib
+2. https://www.geeksforgeeks.org/python-build-a-rest-api-using-flask/
+3. https://stackoverflow.com/questions/47484558/how-to-set-base64-url-to-image-src
 ### Issues with solution
-[1]: https://stackoverflow.com/questions/69924881/userwarning-starting-a-matplotlib-gui-outside-of-the-main-thread-will-likely-fa
-[2]: https://stackoverflow.com/questions/28461001/python-flask-cors-issue 
+1. https://stackoverflow.com/questions/69924881/userwarning-starting-a-matplotlib-gui-outside-of-the-main-thread-will-likely-fa
+2. https://stackoverflow.com/questions/28461001/python-flask-cors-issue 
