@@ -14,7 +14,7 @@ python3 main.py
 ```
 leave the terminal open
 
-### in second terminal, cd into react-app and do following:
+### in second terminal, cd into react-app folder and do following:
 ```
 npm i
 npm run start
