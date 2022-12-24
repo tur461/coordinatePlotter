@@ -27,6 +27,7 @@ leave this terminal open as well
 1. https://stackoverflow.com/questions/13430231/how-i-can-get-cartesian-coordinate-system-in-matplotlib
 2. https://www.geeksforgeeks.org/python-build-a-rest-api-using-flask/
 3. https://stackoverflow.com/questions/47484558/how-to-set-base64-url-to-image-src
+4. https://stackoverflow.com/questions/25087481/how-to-get-random-randinta-b-to-give-me-different-values-over-a-range
 ### Issues with solution
 1. https://stackoverflow.com/questions/69924881/userwarning-starting-a-matplotlib-gui-outside-of-the-main-thread-will-likely-fa
 2. https://stackoverflow.com/questions/28461001/python-flask-cors-issue 
