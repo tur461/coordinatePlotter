@@ -1,9 +1,10 @@
 import matplotlib
 matplotlib.use("agg")
-from PIL import Image
-import base64
+
 import io
+import base64
 import numpy as np                 # v 1.19.2
+from PIL import Image
 import matplotlib.pyplot as plt    # v 3.3.2
 from flask import Flask, jsonify
 from flask_cors import CORS, cross_origin
@@ -76,6 +77,7 @@ def generateAndSaveGraph():
     ax.plot((1), (0), marker='>', transform=ax.get_yaxis_transform(), **arrow_fmt)
     ax.plot((0), (1), marker='^', transform=ax.get_xaxis_transform(), **arrow_fmt)
     fig = ax.get_figure()
+    # save the figure as png in current folder
     fig.savefig(image_path) 
 
 @app.route('/getNewGraph', methods = ["GET"])
